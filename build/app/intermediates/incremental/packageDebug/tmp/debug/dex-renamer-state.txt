@@ -1,0 +1,4 @@
+#Sun Jun 23 12:54:55 GMT 2024
+base.0=/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

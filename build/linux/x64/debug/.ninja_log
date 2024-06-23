@@ -1,0 +1,56 @@
+# ninja log v5
+23	12560	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	5bf7a0611c481dde
+23	12560	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	5bf7a0611c481dde
+23	12560	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	5bf7a0611c481dde
+23	12560	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	5bf7a0611c481dde
+23	12560	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	5bf7a0611c481dde
+23	12560	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	5bf7a0611c481dde
+23	12560	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/build/linux/x64/debug/flutter/_phony_	5bf7a0611c481dde
+23	12560	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	5bf7a0611c481dde
+23	12560	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/libflutter_linux_gtk.so	5bf7a0611c481dde
+23	12560	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_engine.h	5bf7a0611c481dde
+23	12560	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	5bf7a0611c481dde
+23	12560	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	5bf7a0611c481dde
+12560	13904	1718275955058186341	CMakeFiles/flutterapplangue.dir/flutter/generated_plugin_registrant.cc.o	e5c4dca8ca7a29b6
+23	12560	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	5bf7a0611c481dde
+23906	25053	1716242013633277055	CMakeFiles/flutterapplangue.dir/main.cc.o	5b13a4ef79d49e95
+12560	14025	1718275955184857581	CMakeFiles/flutterapplangue.dir/my_application.cc.o	54c31ad8aaa6cdfd
+23	12560	0	flutter/_phony_	5bf7a0611c481dde
+23	12560	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_view.h	5bf7a0611c481dde
+23	12560	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_value.h	5bf7a0611c481dde
+23	12560	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	5bf7a0611c481dde
+23	12560	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	5bf7a0611c481dde
+23	12560	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	5bf7a0611c481dde
+23	12560	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	5bf7a0611c481dde
+14339	14493	0	CMakeFiles/install.util	822c4f71ae722d7
+23	12560	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	5bf7a0611c481dde
+23	12560	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	5bf7a0611c481dde
+23	12560	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	5bf7a0611c481dde
+14025	14339	1718275955501535679	intermediates_do_not_run/flutterapplangue	f9e2996bfe2d79c3
+40	15948	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/libflutter_linux_gtk.so	5bf7a0611c481dde
+40	15948	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	5bf7a0611c481dde
+40	15948	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	5bf7a0611c481dde
+40	15948	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	5bf7a0611c481dde
+40	15948	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	5bf7a0611c481dde
+40	15948	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_engine.h	5bf7a0611c481dde
+40	15948	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	5bf7a0611c481dde
+40	15948	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	5bf7a0611c481dde
+40	15948	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	5bf7a0611c481dde
+40	15948	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	5bf7a0611c481dde
+40	15948	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	5bf7a0611c481dde
+40	15948	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	5bf7a0611c481dde
+40	15948	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	5bf7a0611c481dde
+40	15948	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	5bf7a0611c481dde
+40	15948	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	5bf7a0611c481dde
+40	15948	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	5bf7a0611c481dde
+40	15948	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	5bf7a0611c481dde
+40	15948	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	5bf7a0611c481dde
+40	15948	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_value.h	5bf7a0611c481dde
+40	15948	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/fl_view.h	5bf7a0611c481dde
+40	15948	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	5bf7a0611c481dde
+40	15948	0	flutter/_phony_	5bf7a0611c481dde
+40	15948	0	/home/ahmed/AndroidStudioProjects/flutterapplangue (2)/build/linux/x64/debug/flutter/_phony_	5bf7a0611c481dde
+15950	18382	1719156421002707223	CMakeFiles/flutterapplangue.dir/flutter/generated_plugin_registrant.cc.o	e5c4dca8ca7a29b6
+15949	18625	1719156421236040703	CMakeFiles/flutterapplangue.dir/my_application.cc.o	54c31ad8aaa6cdfd
+18625	19135	1719156421759374363	intermediates_do_not_run/flutterapplangue	f9e2996bfe2d79c3
+19135	19458	0	CMakeFiles/install.util	822c4f71ae722d7
